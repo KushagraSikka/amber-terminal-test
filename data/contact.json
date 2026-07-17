@@ -1,0 +1,14 @@
+{
+  "sectionTitle": "Get in touch",
+  "subtitle": "Have a project in mind or a role to fill? Let's connect.",
+  "email": "chintakuntlahamsika@gmail.com",
+  "location": "KS, USA",
+  "availability": "Open to opportunities",
+  "socialLinks": [
+    {
+      "platform": "Email",
+      "url": "mailto:chintakuntlahamsika@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ]
+}

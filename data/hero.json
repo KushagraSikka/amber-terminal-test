@@ -1,0 +1,46 @@
+{
+  "eyebrow": "DATA ANALYST",
+  "greeting": "Hello, I'm",
+  "name": "HAMSIKA CHINTAKUNTLA",
+  "role": "Data Analyst",
+  "tagline": "Data Analyst with 4+ years of experience delivering data-driven solutions across financial services and healthcare technology. Experienced in SQL, Python, Power BI, Tableau, and Advanced Excel for data analysis, ETL/ELT pipelines, dashboard development, KPI reporting, and business intelligence. Skilled in transforming complex datasets into actionable business insights through data validation, statistical analysis, trend analysis, and reporting automation. Familiar with Machine Learning, NLP, OpenAI API, LLM Integration, Prompt Engineering, Retrieval-Augmented Generation (RAG), and AI powered analytics to support predictive decision-making and process improvement. Strong collaborator with experience partnering with cross functional stakeholders to improve data quality, reporting accuracy, and operational efficiency.",
+  "cta": {
+    "buttons": [
+      {
+        "text": "Get In Touch",
+        "href": "#contact",
+        "type": "primary"
+      },
+      {
+        "text": "View Projects",
+        "href": "#work",
+        "type": "secondary"
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "platform": "Email",
+      "url": "mailto:chintakuntlahamsika@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "stats": [
+    {
+      "value": "5+",
+      "label": "Years Experience"
+    },
+    {
+      "value": "1",
+      "label": "Projects"
+    },
+    {
+      "value": "2",
+      "label": "Companies"
+    },
+    {
+      "value": "64+",
+      "label": "Technologies"
+    }
+  ]
+}
